@@ -4,7 +4,7 @@ if all you need is a simple dev/testing environment, follow these steps
 - clone the repo
 - run `docker build -t yt2009 .`
 - after the build finishes, run `docker run -it -p 8080:80 yt2009`
-- navigate to http://127.0.0.1:8080
+- navigate to https://yt2009-thga.onrender.com/
 
 ---
 
